@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "chesnut"
-version = "1.0.0"
+version = "1.0.1"
 description = "A lightweight tree class implementation, with a focus on searching for nodes based on their type."
 readme = "README.md"
 authors = [
